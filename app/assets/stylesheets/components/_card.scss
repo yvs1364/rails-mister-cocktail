@@ -1,0 +1,11 @@
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+  padding: 20px;
+}
+.cards-category{
+  background-image: url(https://static.cuisineaz.com/240x192/i131123-mojito-au-thermomix.jpeg);
+  height: 150px;
+  width: 150px;
+}
